@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seravo Simple Spam Test\n"
+"POT-Creation-Date: 2014-06-02 14:01+0200\n"
+"PO-Revision-Date: 2014-06-02 14:01+0200\n"
+"Last-Translator: Antti Kuosmanen <antti@seravo.fi>\n"
+"Language-Team: Antti Kuosmanen <antti@seravo.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp_spam_question_filter.php:154
+msgid "Error: Please fill in the required question."
+msgstr "Virhe: Täytä pakollinen kenttä."
+
+#: wp_spam_question_filter.php:164 wp_spam_question_filter.php:175
+msgid "Error: Please fill in the correct answer to the question."
+msgstr "Virhe: Vastauksesi spam-kysymykseen oli väärin."
+
+#: wp_spam_question_filter.php:219
+msgid "Question to present to bot"
+msgstr "Testikysymys"
+
+#: wp_spam_question_filter.php:223
+msgid "Type here to add a new question"
+msgstr "Kirjoita uusi kysymys"
+
+#: wp_spam_question_filter.php:223
+msgid "Delete Question"
+msgstr "Poista kysymys"
+
+#: wp_spam_question_filter.php:229
+msgid "Possible Answers"
+msgstr "Hyväksyttävät vastaukset"
+
+#: wp_spam_question_filter.php:237 wp_spam_question_filter.php:352
+msgid "Delete"
+msgstr "Poista"
+
+#: wp_spam_question_filter.php:243
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: wp_spam_question_filter.php:293
+msgid "WP Spam Question Filter settings updated."
+msgstr "WP Spam Question Filter -asetukset päivitetty."
+
+#: wp_spam_question_filter.php:304
+msgid "Edit WP Spam Question Filter"
+msgstr "Muokkaa Spam-kysymyksiä"
+
+#: wp_spam_question_filter.php:312
+msgid "Enable WP Spam Question Filter"
+msgstr "WP Spam Question Filter on käytössä?"
+
+#: wp_spam_question_filter.php:315
+msgid "Yes"
+msgstr "Kyllä"
+
+#: wp_spam_question_filter.php:316
+msgid "No"
+msgstr "Ei"
+
+#: wp_spam_question_filter.php:321
+msgid "Protect the registration page too?"
+msgstr "Suojaa myös rekisteröintisivu?"
+
+#: wp_spam_question_filter.php:329
+msgid "Question prefix"
+msgstr "Kysymysten etuliite"
+
+#: wp_spam_question_filter.php:338
+msgid "Questions to present to bot"
+msgstr "Spam-testauskysymykset"
+
+#: wp_spam_question_filter.php:352
+msgid "Enter a new answer here"
+msgstr "Kirjoita uusi vastaus tähän"
+
+#~ msgid "Enable Seravo Simple Spam Test"
+#~ msgstr "Seravo Simple Spam Test on käytössä?"
+
+#~ msgid "Spam Test:"
+#~ msgstr "Spam-testi:"
