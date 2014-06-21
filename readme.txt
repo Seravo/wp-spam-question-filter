@@ -24,7 +24,6 @@ Source available at https://github.com/Seravo/wp-spam-question-filter
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Start using!
 
-
 == Frequently Asked Questions ==
 
 No questions yet.
@@ -37,8 +36,10 @@ No screenshots yet.
 
 Note that complete commit log is available at https://github.com/Seravo/wp-spam-question-filter/commits/master
 
-=== 0.2.4 ===
+= 0.2.4 =
 * Initial release to WordPress.org
 
-(This readme.txt is made to satisfy official WordPress plugin directory requirements.)
+== Upgrade Notice ==
 
+= 0.2.4 =
+* Please upgrade WP Spam Question Filter to the newest version. It won't break anything. Promise!
