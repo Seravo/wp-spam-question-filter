@@ -10,7 +10,7 @@
  * Text Domain: wp_spam_question_filter
 */
 
-define('wp_spam_question_filter_VERSION', '0.2.4');
+define('wp_spam_question_filter_VERSION', '0.2.5');
 define('wp_spam_question_filter_current_db_version', 2); //database version
 
 /*
