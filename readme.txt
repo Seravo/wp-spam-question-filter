@@ -4,7 +4,7 @@ Tags: spam, question, filter, honeypot, seravo
 Donate link: http://seravo.fi/
 Requires at least: 3.9.1
 Tested up to: 4.4.1
-Stable tag: 0.2.5
+Stable tag: 1.0
 License: 3-clause BSD
 License URI: http://opensource.org/licenses/BSD-3-Clause
 
@@ -35,6 +35,12 @@ No screenshots yet.
 == Changelog ==
 
 Note that complete commit log is available at https://github.com/Seravo/wp-spam-question-filter/commits/master
+
+= 1.0 =
+* Stable announcement
+
+= 0.2.5 =
+* Bugfix release
 
 = 0.2.4 =
 * Initial release to WordPress.org

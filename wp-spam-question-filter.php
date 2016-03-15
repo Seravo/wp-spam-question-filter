@@ -3,14 +3,14 @@
  * Plugin Name: WP Spam Question Filter
  * Plugin URI: https://github.com/Seravo/wp-spam-question-filter
  * Description: This plugin fights comment and registration spam on your website. Original plugin at http://www.compdigitec.com/apps/wpnobot forked by Seravo
- * Version: 0.2.5
+ * Version: 1.0
  * Author: Seravo Oy
  * Author URI: http://seravo.fi
  * License: 3-clause BSD
  * Text Domain: wp_spam_question_filter
 */
 
-define('wp_spam_question_filter_VERSION', '0.2.5');
+define('wp_spam_question_filter_VERSION', '1.0');
 define('wp_spam_question_filter_current_db_version', 2); //database version
 
 /*
