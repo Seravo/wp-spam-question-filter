@@ -1,10 +1,10 @@
 === WP Spam Question Filter ===
 Contributors: zuige, ottok
 Tags: spam, question, filter, honeypot, seravo
-Donate link: http://seravo.fi/
+Donate link: https://seravo.com/
 Requires at least: 3.9.1
-Tested up to: 4.4.1
-Stable tag: 1.0
+Tested up to: 4.8.3
+Stable tag: trunk
 License: 3-clause BSD
 License URI: http://opensource.org/licenses/BSD-3-Clause
 
